@@ -1,0 +1,434 @@
+﻿controles,riesgo_1,riesgo_2,riesgo_3,riesgo_4,riesgo_5,riesgo_total
+verificar/corregir observaciones/comentarios del cliente,1,0,0,0,0,1
+verificar todos los soportes legales,0,1,1,0,0,2
+verificar todos los documentos legales,0,1,1,0,0,2
+verificar si el acuerdo generado cumple las condiciones jurídicas necesarias,0,0,1,0,0,1
+verificar si el acuerdo firmado cumple condiciones jurídicas para firma y sello de jurídico,0,0,1,0,0,1
+verificar requisitos para realizar modificación/mantenimiento/actualización,1,0,0,0,0,1
+verificar que se le responda al cliente en los tiempos definidos,0,0,0,0,0,0
+verificar que los documentos y los entregables para la estructuración del proyecto estén completos y acordes a la necesidad del cliente,1,0,1,0,0,2
+verificar que los documentos y los entregables estén completos y acordes a la necesidad del cliente,0,0,0,1,0,1
+verificar que los documentos no contengan términos discriminativos,0,1,0,0,0,1
+verificar que la solicitud se aplique correctamente,1,1,0,0,0,2
+verificar que la solicitud cumpla con las requisitos pactados,0,1,1,0,0,2
+verificar que la solicitud cumpla con las condiciones requeridas,1,1,1,0,0,3
+verificar que el servicio sea acorde con las condiciones establecidas,1,1,1,0,0,3
+verificar que el producto sea acorde con las condiciones establecidas,1,1,1,0,0,3
+verificar que el contrato sea acorde con las condiciones establecidas,1,1,1,1,0,4
+verificar que cliente haya leído y este de acuerdo con la información,1,0,0,0,0,1
+verificar publicación de la información,1,1,1,0,0,3
+verificar los documentos publicados a los clientes,0,0,0,1,0,1
+verificar los documentos expuestos a los clientes,1,0,0,0,0,1
+verificar los contratos y cláusulas que se dan a los clientes,0,0,0,0,0,0
+verificar las solicitudes pendientes por atender,1,0,0,0,0,1
+verificar las respuestas a los clientes,0,1,0,0,0,1
+verificar las publicaciones para los  clientes,1,0,0,0,0,1
+verificar las notificaciones para los clientes,0,0,0,0,0,0
+verificar las condiciones/estado/características del cliente,1,0,0,0,0,1
+verificar las condiciones,0,0,0,0,0,0
+verificar la solicitud recibida,1,0,0,0,0,1
+verificar la precisión y claridad de la información proporcionada en el contrato/documento,0,0,0,1,0,1
+verificar la novedad del cliente,0,1,0,0,0,1
+verificar la necesidad del cliente,0,1,0,0,0,1
+verificar la información,0,0,1,0,0,1
+verificar la entrega de la información,0,0,0,0,0,0
+verificar la causación de las comisiones,0,0,0,0,1,1
+verificar la causación de intereses,0,1,0,0,1,2
+verificar la calidad de la información,0,0,0,0,0,0
+verificar información de contacto del cliente,0,0,0,0,0,0
+verificar fechas de vencimiento de reclamos y requerimientos para asegurar su respuesta oportuna,1,0,0,0,0,1
+verificar estructura de la respuesta,0,0,0,0,0,0
+verificar estructura de emisión/comunicación,0,0,0,0,0,0
+verificar estructura de emisión,0,0,1,0,0,1
+verificar estado vinculación cliente,0,0,0,0,0,0
+verificar estado documentos contractuales,0,0,1,0,0,1
+verificar el envío de la respuesta,0,1,0,0,0,1
+verificar el contenido de la solución o de la respuesta,0,0,0,1,0,1
+verificar cumplimiento del objeto del contrato,0,1,1,0,0,2
+verificar cuentas por cobrar,1,0,0,0,0,1
+verificar conexión de personas no autorizadas,0,0,0,0,0,0
+verificar conexión de externos,0,0,0,0,0,0
+verificar condiciones para perfilar,0,1,0,0,0,1
+verificar condiciones del cliente,1,0,0,0,0,1
+verificar condiciones de la asesoría,0,1,0,0,0,1
+verificar condiciones de cobros de gastos,0,0,0,1,0,1
+verificar cierre del caso,1,0,0,0,0,1
+verificar autorización para el cobro automático,0,0,0,0,0,0
+verificar aplicación de cobros,0,0,0,0,0,0
+validar vigencia y condiciones contractuales,0,0,1,0,0,1
+validar viabilidad del proyecto,0,0,1,0,0,1
+validar viabilidad,0,0,1,0,0,1
+validar usuarios autorizados para acceder a la información,0,0,0,0,1,1
+validar solución del radicado,0,0,0,1,0,1
+validar solución del caso,0,0,1,0,0,1
+validar solución de la queja o requerimiento,0,0,0,0,0,0
+validar si lo que se le entrega al clientes es acorde a su necesidad,1,0,0,0,0,1
+validar requisitos para formalización del contrato,0,0,1,0,0,1
+validar queja/reclamo/solicitud/sugerencia del cliente,1,0,0,0,0,1
+validar que se hayan realizado solo los cobros autorizados,1,0,0,0,0,1
+validar que se cumplan con las condiciones pactadas,0,1,1,1,0,3
+validar que se cumplan con las condiciones,1,0,0,0,0,1
+validar que los documentos sean correctos,0,1,0,0,0,1
+validar que los documentos cumplan con los requisitos necesarios,1,1,1,1,0,4
+validar que los contratos y documentos cumplan con las normativas vigentes,0,0,0,1,0,1
+validar que los cambios implementados sean consistentes,0,1,0,0,0,1
+validar que las publicaciones sean claras y sencillas,0,1,0,0,0,1
+validar que las cuentas se encuentren conciliadas,1,0,0,0,0,1
+validar que las condiciones negociadas estén correctamente expuestas en el documento,1,1,1,1,0,4
+validar que las condiciones negociadas estén correctamente expuestas en el contrato,1,1,1,1,0,4
+validar que las comunicaciones sean claras y sencillas,0,1,0,0,0,1
+validar que la respuesta contenga toda la información requerida,0,0,0,0,0,0
+"validar que la información se encuentre correcta, completa e integra",1,1,1,1,0,4
+validar que la información de cliente este actualizada,0,0,1,0,0,1
+validar proyecto,0,0,1,0,0,1
+validar perfil del cliente,1,0,0,0,0,1
+validar minuta del contrato,0,0,1,0,0,1
+validar los contenidos del sitio,0,0,1,0,0,1
+validar listas de control,0,0,0,0,1,1
+validar lectura de mercado,0,0,1,0,0,1
+validar las clausulas de los contratos de los clientes,0,0,1,0,0,1
+validar la viabilidad de las fusiones,0,0,1,0,0,1
+validar la viabilidad de las adquisiciones,0,0,1,0,0,1
+validar la respuesta que se emitirá,0,1,0,0,0,1
+validar la liquidación de cobros,0,0,0,1,0,1
+validar la forma de implementar la estrategia dei,0,1,0,0,0,1
+validar la forma de implementar la estrategia de diversidad e inclusión,0,1,0,0,0,1
+validar la forma de implementar la estrategia,0,0,1,0,0,1
+validar inversión,0,0,1,0,0,1
+validar iniciativa,0,0,1,0,0,1
+validar guiones de asesoría,0,0,0,0,0,0
+validar estrategia de comunicación,0,0,0,0,0,0
+validar estado actual del producto,1,0,0,0,0,1
+validar el producto/servicio que se le otorgará al cliente,1,0,0,0,0,1
+validar el cupo/limite del cliente,1,0,0,0,0,1
+validar el cumplimiento de la estrategia y hacer seguimiento,0,0,1,0,0,1
+validar cumplimiento de requisitos,1,0,0,0,0,1
+validar contrato con el proveedor,0,0,1,0,0,1
+validar contraseña encriptada,1,0,0,0,0,1
+validar condiciones/información del producto,1,0,0,0,0,1
+validar condiciones/información del cliente,1,0,0,0,0,1
+validar condiciones especiales de la operación,0,1,0,0,0,1
+validar condiciones especiales,0,1,0,0,0,1
+validar condiciones del cliente,0,0,0,0,1,1
+validar condiciones de los comunicados,0,0,0,1,0,1
+validar condiciones de las respuestas de las aqrs,1,0,0,0,0,1
+validar condiciones de la solicitud,1,0,0,0,1,2
+validar condiciones de la operación,0,0,1,0,0,1
+validar con el cliente el producto/servicio que se le otorgará,1,0,0,0,0,1
+validar check list otorgamiento producto/servicio,1,0,0,0,1,2
+validar check list negociación,1,0,0,0,0,1
+validar autorización y permisos en las bases de datos,0,0,0,0,0,0
+validar autenticación del cliente,0,1,0,0,0,1
+validar aprobaciones de los accesos,0,0,0,0,0,0
+validar anuncios y seguimiento del mercado,0,0,1,0,0,1
+utilizar la encriptación de datos,0,0,1,0,0,1
+utilizar conexiones seguras para el acceso remoto a sistemas y datos financieros,0,0,0,0,0,0
+utiliza autenticación multifactor para agregar capas de seguridad,0,0,0,0,1,1
+tomar acciones para aumentar la satisfacción de los clientes,1,0,0,0,0,1
+tener ah/dr para garantizar la disponibilidad de los canales,0,0,0,0,1,1
+solicitar el doble factor de autenticación,1,0,0,1,0,2
+"solicitar aprobación por parte del cliente para el aumento en las comisiones, tarifas o costos de los productos",0,0,0,0,0,0
+solicitar aprobación por parte del cliente para el aumento en el costo del uso del canal,1,0,0,0,0,1
+separa las redes internas y externas,0,0,0,0,0,0
+seleccionar proveedor,0,0,1,0,0,1
+segregar/segreación de funciones de aprobación,0,0,0,0,0,0
+segregación de roles en la aplicación,0,1,0,0,0,1
+sacar comunicados sobre el manejo de los productos/canales,0,0,0,0,0,0
+revisión y aprobación de la expectativa de permanencia de sedes administrativas,0,0,1,0,0,1
+revisión de las condiciones de los documentos a firmar,1,0,1,0,0,2
+revisión de las cláusulas y condiciones de los contratos o documentos que se deban firmar,0,0,0,1,0,1
+revisión de las cláusulas de los contratos,0,0,1,0,0,1
+revisar/supervisar/monitorear el trabajo realizado,0,0,0,1,0,1
+revisar y aprobar terminación de contrato,0,0,1,0,0,1
+revisar y aprobar sucesión,0,0,1,0,0,1
+revisar y aprobar los documentos,1,0,0,0,0,1
+revisar y aprobar los contratos,0,0,1,0,0,1
+revisar y aprobar las respuestas a aqrs,0,0,0,0,0,0
+revisar y aprobar las comunicaciones,0,0,0,0,0,0
+revisar y aprobar incremento o disminución de plazo,0,0,1,0,0,1
+revisar y aprobar incremento o disminución de canon,0,0,1,0,0,1
+revisar y aprobar embargo,0,0,1,0,0,1
+revisar y aprobar cuentas de cobro,0,0,0,1,0,1
+revisar y aprobar cláusulas en los contratos,0,1,1,0,0,2
+revisar y aprobar cesión de contrato,0,0,1,0,0,1
+revisar y actualizar regularmente los materiales sitios web,1,0,0,0,0,1
+"revisar y actualizar regularmente los materiales informativos, folletos, documentos",1,0,0,0,0,1
+revisar viabilidad financiera,0,0,1,0,0,1
+revisar viabilidad de realizar la operación,0,0,1,0,0,1
+revisar trabajo realizado en temas de viabilidad para personas con discapacidad,0,1,0,0,0,1
+revisar trabajo realizado en temas de viabilidad para personas con dei,0,1,0,0,0,1
+revisar servicio,0,0,1,0,0,1
+revisar riesgos de la transacción,0,0,1,0,0,1
+revisar requisitos y documentos,0,0,0,0,1,1
+revisar requisitos de la negociación,0,0,1,0,0,1
+revisar que se hayan ejecutado los parámetros definidos,0,0,1,0,0,1
+revisar que los entregables del proyecto contengan las clausulas dei,0,1,0,0,0,1
+revisar que los documentos se entreguen oportunamente,0,0,1,0,0,1
+revisar que los documentos estructurados garanticen la viabilidad de la inversión,0,0,1,0,0,1
+revisar que los contratos y documentos sean claros y comprensibles,0,0,0,1,0,1
+revisar que los contratos y documentos cumplan con las regulaciones vigentes,0,0,0,1,0,1
+revisar que la información se entregue oportunamente,0,0,0,0,0,0
+revisar que el contrato incluya los costos/ tarifas/ plazos/ derechos y obligaciones,0,0,0,1,0,1
+revisar que cumplan con las condiciones para ofrecer el producto/servicio/canal,1,0,0,0,1,2
+revisar negocio,0,0,1,0,0,1
+revisar modelo financiero,0,0,1,0,0,1
+revisar los procesos de toma de decisiones para asegurar que no estén sesgados,0,0,0,0,1,1
+revisar los contratos y documentos que se proporcionan a los clientes,0,0,0,1,0,1
+revisar los acuerdos,0,0,0,0,0,0
+revisar log de cambios realizados en los sistemas de facturación y cobro,0,1,0,0,0,1
+revisar licitaciones,0,0,1,0,0,1
+revisar las tasas,0,0,1,0,0,1
+revisar las tarifas,0,0,1,0,0,1
+revisar las condiciones para ofrecer el servicio,1,1,1,0,0,3
+revisar las condiciones para ofrecer el producto,1,1,1,0,0,3
+revisar las condiciones para ofrecer el canal,1,1,1,0,0,3
+revisar las cláusulas de renovación del contrato,0,0,1,0,0,1
+revisar las cláusulas de incrementos,0,0,1,0,0,1
+revisar la pertinencia de la vinculación del cliente,0,0,0,0,1,1
+revisar la pertinencia de aperturarle el producto al cliente,0,0,0,0,1,1
+revisar informes de valoración,0,0,1,0,0,1
+revisar entregables del proyecto,0,0,1,0,0,1
+revisar el trabajo realizado,1,0,1,0,0,2
+revisar el contrato/ acuerdo/ documento,0,0,0,1,0,1
+revisar el contenido del documento,0,0,0,1,0,1
+revisar contratos para garantizar que los términos de cobro estén claramente definidos,0,0,0,1,0,1
+revisar contrato,1,0,1,0,0,2
+revisar con el cliente la información,0,1,0,0,0,1
+revisar cláusulas del contrato/incrementos/tasas/tiempo del contrato,0,0,0,1,0,1
+revisar certificaciones y/o documentos,0,0,0,0,1,1
+revisar autorización para el debito automático,1,0,0,0,0,1
+revisar aplicación de condiciones,0,0,1,0,0,1
+revisar acuerdos con proveedores,0,0,1,0,0,1
+revisar acuerdos con aliados,0,0,1,0,0,1
+revisar acuerdo,0,0,1,0,0,1
+responder solicitud del cliente,0,0,0,0,0,0
+responder requerimiento al cliente,0,0,0,0,1,1
+resaltar en contratos y documentos los puntos más relevantes,0,0,1,0,0,1
+relizar marcación de confidencial a los archivos con información de clientes,1,0,0,0,0,1
+relizar marcación de confidencial a los archivos con datos personales de clientes y/o usuarios,0,0,0,0,1,1
+registrar un contacto de emergencia,0,1,0,0,0,1
+registrar un contacto de ayuda,0,1,0,0,0,1
+redactar en contratos y documentos términos y condiciones de manera clara y sencilla,0,0,0,1,0,1
+"redactar en contratos y documentos las tarifas, intereses, penalizaciones y términos de cancelación de manera clara y sencilla",0,0,0,1,0,1
+redactar de manera detallada las condiciones de productos y servicios,0,0,0,1,0,1
+recibir y analizar contenido de la solicitud,0,1,1,0,0,2
+realizar verificación telefónica,0,1,0,0,0,1
+realizar validaciones periódicas en los canales digitales,0,1,0,0,0,1
+realizar validaciones periódicas a las instalaciones físicas,0,1,0,0,0,1
+realizar un adecuado conocimiento/entendimiento de la necesidad del cliente,1,0,0,0,1,2
+realizar seguimiento periódico al desarrollo de la estrategia de diversidad e inclusión,0,1,0,0,0,1
+realizar seguimiento periódico al desarrollo de la estrategia de dei,0,1,0,0,0,1
+realizar seguimiento periódico al desarrollo de la estrategia,0,0,1,0,0,1
+realizar seguimiento a los anuncios publicitarios,0,0,1,0,0,1
+realizar seguimiento a los anuncios de mercado,0,0,1,0,0,1
+realizar revisiones periódicas para garantizar que la información sea clara y precisa,1,0,0,0,0,1
+realizar revisiones periódicas de prácticas comerciales,0,1,1,0,0,2
+realizar reintegro a los clientes por cobros no acordados,0,0,0,0,0,0
+realizar publicaciones que estén respaldadas y cumplan con la política de comunicación,0,0,1,0,0,1
+realizar pruebas/pilotos antes de sacar a producción el producto/canal,1,0,0,0,0,1
+realizar pruebas piloto de la información,0,0,0,0,0,0
+realizar pruebas piloto de contratos y documentos implementados,1,0,1,0,0,2
+realizar pruebas de vulnerabilidad para identificar y corregir debilidades en la infraestructura de seguridad,0,0,0,0,1,1
+realizar pruebas de usabilidad para garantizar que los contratos y documentos legales son fáciles de entender,0,0,0,1,0,1
+realizar pruebas de penetración para identificar y corregir debilidades en la infraestructura de seguridad,0,0,1,0,0,1
+realizar perfilamiento de los clientes,0,0,1,0,0,1
+realizar informe con los lineamientos de diversidad e inclusión,0,1,0,0,0,1
+realizar evaluaciones anuales sobre la gestión del defensor del cf,0,0,0,0,0,0
+realizar encuestas que evalúen el servicio del defensor del cf,1,0,0,0,0,1
+realizar copias de seguridad periódicas,0,0,0,1,0,1
+realizar copias de seguridad de la información,0,0,0,0,0,0
+realizar control dual sobre los contratos y documentos generados,0,0,0,1,0,1
+realizar control dual sobre el concepto emitido,0,0,1,0,0,1
+realizar comunicado con los lineamientos dei,0,1,0,0,0,1
+realizar comunicado con los lineamientos de diversidad e inclusión,0,1,0,0,0,1
+realizar callback al cliente,0,1,0,0,0,1
+realizar auditorías para revisar el cumplimiento de las funciones y responsabilidades del defensor del cf,0,1,0,0,0,1
+realizar auditorías internas para verificar el cumplimiento de las políticas y procedimientos relacionados con la información proporcionada a los clientes,0,0,0,1,0,1
+realizar arqueo de pagarés,0,0,0,0,0,0
+realizar arqueo de documentos con información de clientes,0,0,0,0,0,0
+realizar arqueo de contratos,0,0,0,0,0,0
+realizar análisis comparativos con contratos similares,0,0,0,1,0,1
+realiza encuestas de satisfacción en la resolución de aqrs,1,0,0,0,0,1
+proporcionar glosarios o definiciones claras de términos para ayudar a los clientes.,0,0,1,0,0,1
+proporcionar al cliente el contrato/documento en otro idioma si es necesario,0,0,0,1,0,1
+proporcionar al cliente el contrato/documento en diversos formatos si es necesario,0,0,0,1,0,1
+prohibición explícita de realizar cobros no acordados.,0,0,0,0,0,0
+priorizar atención del cliente,0,1,0,0,0,1
+priorizar asesoría al cliente,0,1,0,0,0,1
+presentar proyecto al consejo directivo,0,0,1,0,0,1
+presentar el proyecto ante el comité de calidad,0,0,1,0,0,1
+preparar respuesta para el cliente,0,0,0,0,0,0
+preparar propuesta para el cliente o prospecto cliente,1,0,0,0,1,2
+parametrizar las condiciones del servicio,0,0,1,0,0,1
+parametrizar las condiciones del producto,0,0,1,0,0,1
+parametrizar las condiciones del canal,0,0,1,0,0,1
+otp al contacto de ayuda,0,1,0,0,0,1
+ofrecer propuesta de valor al cliente,1,0,0,0,0,1
+ofrecer guías/instructivos para el adecuado manejo de los productos/canales,1,0,0,0,0,1
+ofrecer asesoría sobre los contratos y documentos establecidos,0,0,0,1,0,1
+obtener y gestionar consentimiento procesamiento de sus datos personales,0,1,0,0,1,2
+obtener consentimiento informado,0,0,1,0,0,1
+notificación de los cambios en contratos y documentos,0,0,0,1,0,1
+monitoreo constante de cargos no autorizados,0,0,0,0,1,1
+monitorear respuestas enviadas por parte del defensor,0,0,0,0,0,0
+monitorear los montos a cobrados con los autorizados,0,0,0,0,0,0
+monitorear las quejas realizadas por los clientes en los diferentes canales de comunicación,1,0,0,0,0,1
+monitorear las quejas realizadas por los clientes en las redes sociales,0,1,0,0,0,1
+monitorear las operaciones cerradas por cada comercial,0,0,0,0,0,0
+monitorear las cuentas por cobrar,0,0,0,0,0,0
+monitorear las asesorías dadas,1,0,0,0,0,1
+monitorear la red en busca de signos de actividad sospechosa o maliciosa,0,1,0,0,0,1
+monitorear la línea de atención/sucursal telefónica,1,0,0,0,0,1
+monitorear indicadores de desempeño del defensor del cf,0,0,0,0,0,0
+monitorear el acceso de los provedores a los datos personales de los clientes,0,1,0,0,0,1
+monitorear el acceso de los externos a los datos personales de los clientes,0,0,0,0,0,0
+monitorear cumplimiento en los tiempos y calidad de la atención de reclamos realizados al defensor,0,0,0,0,0,0
+monitorear cumplimiento de procesos y responsabilidades del defensor del cf,0,0,1,0,0,1
+monitorear constantemente la seguridad de la información,0,0,0,0,1,1
+monitorear constantemente la confidencialidad de la información,0,1,0,1,0,2
+monitorear cobro de comisiones,1,0,0,0,0,1
+monitorear casos atendidos por el defensor,0,0,0,0,0,0
+modificar el producto/canal de acuerdo a los comentarios de las encuestas de satisfacción,0,0,0,0,0,0
+mitigar el riesgo de interrupción,0,1,0,0,0,1
+llevar un registro de los cambios realizados a los datos personales,0,0,0,0,0,0
+limitar el acceso a información confidencial o estratégica,0,0,1,0,0,1
+limitar el acceso a datos sensibles solo al personal autorizado,0,1,0,0,0,1
+limitar acceso a información confidencial o estratégica,0,0,0,0,0,0
+limitar acceso a datos sensibles solo al personal autorizado,0,0,1,0,0,1
+limita el acceso a los datos solo a las personas autorizadas,0,0,0,0,1,1
+informar oportunamente cambios en los términos del contrato,0,0,0,1,0,1
+implementar proceso formal de revisión de contratos,0,0,0,1,0,1
+implementar proceso escalamiento de decisiones,0,0,0,0,0,0
+implementar controles de acceso,0,0,0,0,0,0
+identificar/verificar que el cliente cumple con las condiciones,1,0,0,0,0,1
+identificar al cliente,0,1,0,0,0,1
+hacer revisiones aleatorias a los contratos con los clientes,0,0,0,1,0,1
+hacer revisiones aleatorias a las asesorías dadas a los clientes,1,0,0,0,0,1
+hacer la búsqueda del producto/servicio que el cliente realmente necesita,1,0,0,0,0,1
+gestionar requerimiento del cliente o usuario,0,0,0,1,0,1
+gestionar queja del cliente o usuario,0,0,0,0,1,1
+gestionar derechos de petición,0,0,0,0,0,0
+gestionar cobro con el cliente,0,1,0,0,0,1
+genera informes periódicos para el seguimiento de los aqrs,0,0,0,0,0,0
+garantizar que la información esté disponible,1,0,0,0,0,1
+evaluar/monitorear el desempeño del defensor,0,0,0,0,0,0
+evaluar viabilidad de la solicitud,0,0,1,0,0,1
+evaluar viabilidad de la creación o modificación solicitada,0,0,1,0,0,1
+evaluar las propuestas de los diferentes proveedores,0,0,1,0,0,1
+evaluar las propuestas de los diferentes proponentes,0,0,1,0,0,1
+evaluar las propuestas de los diferentes aliados,0,0,1,0,0,1
+evaluar las condiciones para el otorgamiento del servicio,1,0,1,0,0,2
+evaluar las condiciones para el otorgamiento del producto,1,0,1,0,0,2
+estructurar negocio de acuerdo a las necesidades del cliente,1,0,1,0,0,2
+estructurar negocio de acuerdo a la dinámica del mercado,0,0,1,0,0,1
+establecer/implementar políticas,0,0,1,0,0,1
+establecer tiempo de respuesta,0,0,0,0,0,0
+establecer protocolos,0,0,0,0,1,1
+establecer proceso interno de revisión de contratos,0,0,0,1,0,1
+establecer límites de cobro para cada cliente o contrato,0,0,0,1,0,1
+establecer indicadores de desempeño del defensor del cf,0,0,0,0,0,0
+establecer funciones/políticas claras del defensor del cf,0,1,0,0,0,1
+establecer comités,0,0,0,0,0,0
+establecer características de los productos para cada segmento comercial,1,0,0,0,0,1
+establece tiempos para la atención de aqrs,0,0,0,0,1,1
+enviar notificaciones antes de cualquier cargo programado,0,0,0,0,0,0
+enviar confirmaciones escritas de cargos adicionales,0,1,0,0,0,1
+encriptar los datos personales que se comparten,0,0,0,0,1,1
+encriptar la información a enviar,0,0,0,0,0,0
+encriptar la información a compartir,0,0,0,0,0,0
+encriptar correo con datos personales de clientes y/o usuarios,0,0,0,0,0,0
+encriptar correo,0,0,0,1,0,1
+eliminar datos personales de personas que ya no se requieran,0,0,0,0,0,0
+descargar información de archivos seguros,1,0,0,0,0,1
+definir un proceso de revisión de contratos,0,0,0,1,0,1
+definir roles/responsabilidades,0,0,0,0,0,0
+definir plan de formación/capacitación para el defensor del cf,0,0,0,0,1,1
+definir plan de contingencia cuando el defensor no pueda cumplir con sus funciones y responsabilidades,0,0,0,1,0,1
+definir cláusulas aprobación dual/confidencialidad/declaración de conflictos de interés,0,0,0,0,0,0
+dar respuesta al cliente/usuario en el tiempo determinado,1,0,0,0,0,1
+dar prioridad de atención a clientes con alguna discapacidad,0,1,0,0,0,1
+custodiar usuarios de conexión,0,0,0,0,0,0
+custodiar documentación entregada por el cliente o por el usuario,0,0,0,0,0,0
+custodiar contratos de los clientes,0,0,0,0,0,0
+custodiar autorización de tratamiento de datos personales,0,0,0,0,0,0
+crear/establecer comité que supervise las actividades del defensor del cf,0,0,0,0,1,1
+"crear manual/política de funciones, responsabilidades y atribuciones del defensor del cf",0,0,0,0,0,0
+crear log de cambios realizados en los sistemas de facturación y cobro,1,0,0,0,0,1
+crear documentos redactados de manera inclusiva y comprensible para todos los clientes,0,1,0,0,0,1
+crear documentos en diferentes formatos,0,1,0,0,0,1
+crear copias de seguridad para prevenir la pérdida de los datos personales,0,0,1,0,0,1
+crear contratos redactados de manera inclusiva y comprensible para todos los clientes,0,1,0,0,0,1
+crear contratos en diferentes formatos,0,1,0,0,0,1
+corregir oportunamente las inconsistencias/errores encontrados,1,0,0,0,0,1
+controlar variables de negocio definidas para la venta,1,0,1,0,0,2
+controlar variables de negocio,0,0,1,0,0,1
+controlar sobrepasos a la tasa de usura,1,0,0,0,0,1
+controlar quién tiene acceso a la información,0,0,0,0,0,0
+controlar accesos,0,0,0,0,0,0
+control dual de aprobación,1,0,0,0,0,1
+contingencia para asegurar/garantizar disponibilidad,0,0,0,0,0,0
+contactar al cliente para validar su solicitud,1,0,0,0,1,2
+contactar al cliente para darle respuesta,1,0,0,0,0,1
+confirmar recepción de los documentos,1,0,1,0,0,2
+confirmar los cobros con los clientes antes de emitirlos,0,0,1,0,0,1
+confirmar las condiciones de negociación con el cliente,1,0,0,0,0,1
+confirmar con el cliente sus necesidades,1,0,0,0,0,1
+confirmar apertura del producto/canal,0,0,0,0,0,0
+conexión segura a la red,0,0,0,0,0,0
+compartir de forma segura la información,0,0,0,0,1,1
+compartir de forma segura la base de datos,1,0,0,0,0,1
+comparar valor de mercado,0,0,1,0,0,1
+comparar que lo que se ofrece coincida con lo que se solicita,1,0,0,0,0,1
+comparar proveedores,0,0,1,0,0,1
+colocar contraseña de acceso a los documentos de clientes,0,0,0,0,0,0
+colocar contraseña de acceso a las bases de datos,0,1,1,0,0,2
+cifrar a los datos personales almacenados,1,0,0,0,0,1
+certificar los accesos de las personas,0,0,0,0,0,0
+certificar accesos,0,0,0,0,0,0
+cerrar requerimiento del cliente,0,0,0,0,0,0
+capacitar/certificar a los asesores en los productos/servicios/canales,1,0,0,0,0,1
+brindar asesoría financiera,1,0,0,0,0,1
+autorizar cuenta de cobro,1,0,0,1,0,2
+autenticar al cliente,0,1,0,0,0,1
+atender/tramitar/ejecutar/procesar/gestionar/aplicar solicitud/novedad/mantenimiento del cliente,0,0,0,0,0,0
+atención prioritaria al clientes según su necesidad,0,1,0,0,0,1
+aprobar solicitud de ingreso,0,0,1,0,0,1
+aprobar proyecto por parte del comité,0,0,1,0,0,1
+aprobar proyecto,0,0,1,0,0,1
+aprobar pedido de compra,0,0,1,0,0,1
+aprobar otorgamiento del producto,1,0,1,0,0,2
+aprobar negocio,0,0,1,0,0,1
+aprobar matriz de servicios preautorizados,0,0,1,0,0,1
+aprobar los términos de los productos,0,0,1,0,0,1
+aprobar los incrementos pactados en el contrato de los cánones de arrendamiento,0,0,1,0,0,1
+aprobar las condiciones de los productos,0,0,1,0,0,1
+aprobar la solicitud del cliente,0,0,0,0,1,1
+aprobar la salida a producción del producto,0,0,1,0,0,1
+aprobar la clasificación del contrato,0,0,1,0,0,1
+aprobar la apertura del canal,1,0,0,0,0,1
+aprobar estrategia comercial,1,0,1,0,0,2
+aprobar espacio,0,0,1,0,0,1
+aprobar el aumento de los costos asociados a los productos o canales,0,0,0,0,0,0
+aprobar contrato,0,0,1,0,0,1
+aprobar condiciones del contrato,0,0,1,0,0,1
+aprobar cambios de las condiciones,0,0,1,0,0,1
+aprobar cambio de las tasas de interés,0,0,1,0,0,1
+aprobar cambio de la tarifa,0,0,1,0,0,1
+aprobación dual,0,0,1,0,0,1
+analizar contenido de la solicitud,1,0,0,0,0,1
+administrar identidades y accesos,0,0,0,0,0,0
+adaptar la información a las necesidades y nivel de comprensión de cada cliente,0,0,0,1,0,1
+actualizar el contenido del documento,1,0,0,0,0,1
+abrir/cerrar/trasladar/fusionar canal,0,0,0,0,0,0
+actualizar/verificar información de los clientes,0,0,0,0,0,0
+establecer políticas de actualización de clientes,0,0,0,0,0,0
+establecer canales/plataformas para que los clientes proporcionen información,1,0,1,0,0,2
+implementar una política de debida diligencia/due diligence,0,0,0,0,0,0
+monitorear la exactitud y completitud de la información,0,0,0,0,0,0
+realizar auditorías de los procesos de vinculación y actualización de clientes,0,0,0,0,0,0
+establecer políticas internas que definan qué es conflicto de interés,0,0,0,0,0,0
+establecer políticas,0,0,1,0,0,1
+definir cláusula de declaración de conflictos de interés,0,0,0,0,0,0
+definir comités especializados que supervisen la ejecución de los procesos,1,0,0,0,0,1
+definir y documentar protocolos claros para la ejecución de procesos,0,0,0,1,0,1
+monitoreo de bloqueos,0,0,1,0,0,1
